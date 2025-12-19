@@ -1,4 +1,4 @@
-# 🌌 KevNexus | Elite Engineering Portfolio
+# KevNexus | Elite Engineering Portfolio
 
 KevNexus is a premium landing page template designed for professional developers who demand a digital presence as sophisticated as their code. It combines high-end glassmorphism aesthetics with functional AI tools to showcase technical mastery.
 
